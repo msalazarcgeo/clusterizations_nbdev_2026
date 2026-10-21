@@ -1,0 +1,14 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "clusterizations_nbdev_2026"
+  site-url: "https://msalazarcgeo.github.io/clusterizations_nbdev_2026"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/msalazarcgeo/clusterizations_nbdev_2026"
+
+format-links:
+  - html
+  - format: commonmark
+    text: Markdown
